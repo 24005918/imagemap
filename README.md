@@ -214,7 +214,6 @@ Execute the programs and publish them.
 ![Screenshot 2024-12-06 211528](https://github.com/user-attachments/assets/eb6332b6-7148-4d6b-a715-5348f62a2c4d)
 ![Screenshot 2024-12-06 211543](https://github.com/user-attachments/assets/0c5aa306-4ae6-4401-8ed9-26535af8f2da)
 ![Screenshot 2024-12-06 211616](https://github.com/user-attachments/assets/48be8940-1ea3-4ebd-9d2e-3c16e5665fc5)
-![Screenshot 2024-12-06 211634](https://github.com/user-attachments/assets/6a10a92f-2377-4000-977f-ffada72942c9)
 
 
 ## RESULT
